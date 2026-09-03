@@ -1,8 +1,11 @@
-        header {
+       body{
+        max-width: 100vw;
+       }
+       header {
             background-color: #d13c32;
             color: #FFFFFF;
             text-align: center;
-            max-width: 800px;
+            
             margin: 0 auto;
             padding: 16px;
         }
@@ -10,7 +13,7 @@
         main {
             background-color: #FFFFFF;
             color: #521b17;
-            max-width: 800px;
+           
             margin: 0 auto;
             padding: 16px;
         }
